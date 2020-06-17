@@ -28,7 +28,7 @@
         <slf4j.version>1.7.5</slf4j.version>
         <scalatest.version>3.0.2</scalatest.version>
         <typesafe.config.version>1.3.2</typesafe.config.version>
-        <spray.json.version>1.3.4</spray.json.version>
+        <spray.json.version>1.3.5</spray.json.version>
         <pureconfig.version>0.8.0</pureconfig.version>
         <kudu.cloudera.version>1.7.0-cdh5.16.2</kudu.cloudera.version>
         <monocle.version>1.5.0</monocle.version>
