@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS omnichannel_user COMMENT 'Omnichannel user';
