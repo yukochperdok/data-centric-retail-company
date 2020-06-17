@@ -1,0 +1,2 @@
+site_id,order_status,sherpa_order_status,action,user_insert_dlk,ts_insert_dlk,user_update_dlk,ts_update_dlk
+c4nonfood,Submitted,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00

@@ -1,0 +1,130 @@
+{
+  "type": "record",
+  "name": "Order",
+  "namespace": "com.training.bigdata.order.bean",
+  "fields": [
+    {
+      "name": "commerceItems",
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "record",
+          "name": "CommerceItem",
+          "fields": [
+            {
+              "name": "paymentGroupId",
+              "type": [
+                "null",
+                {
+                  "type": "string",
+                  "avro.java.string": "String"
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "type": [
+                "null",
+                {
+                  "type": "string",
+                  "avro.java.string": "String"
+                }
+              ]
+            },
+            {
+              "name": "quantity",
+              "type": "int"
+            },
+            {
+              "name": "volumetry",
+              "type": {
+                "type": "record",
+                "name": "volumetry",
+                "fields": [
+                  {
+                    "name": "width",
+                    "type": [
+                      "null",
+                      "double"
+                    ]
+                  },
+                  {
+                    "name": "high",
+                    "type": [
+                      "null",
+                      "double"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "commerceItemPriceInfo",
+              "type": {
+                "type": "record",
+                "name": "CommerceItemPriceInfo",
+                "fields": [
+                  {
+                    "name": "amountNoDiscounts",
+                    "type": [
+                      "null",
+                      "double"
+                    ]
+                  },
+                  {
+                    "name": "iva",
+                    "type": "double"
+                  },
+                  {
+                    "name": "adjustments",
+                    "type": [
+                       "null",
+                       {
+                         "type": "array",
+                         "items": {
+                           "type": "record",
+                           "name": "Adjustment",
+                           "fields": [
+                             {
+                               "name": "id",
+                               "type": [
+                                 {
+                                   "type": "string",
+                                   "avro.java.string": "String"
+                                 }
+                               ]
+                             },
+                             {
+                               "name": "promotionType",
+                               "type": [
+                                 "null",
+                                 {
+                                   "type": "string",
+                                   "avro.java.string": "String"
+                                 }
+                               ]
+                             }
+                           ]
+                         }
+                       }
+                     ]
+                    }
+                ]
+              }
+            },
+            {
+              "name": "adjustments",
+              "type": [
+                "null",
+                {
+                  "type": "array",
+                  "items": "Adjustment"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

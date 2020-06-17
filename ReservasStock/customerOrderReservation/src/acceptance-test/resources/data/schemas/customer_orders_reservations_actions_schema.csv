@@ -1,0 +1,9 @@
+name,type,comment,primary_key,nullable,default_value,encoding,compression,block_size
+site_id,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+order_status,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+sherpa_order_status,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+action,string,,false,true,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_insert_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_insert_dlk,timestamp,,false,false,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_update_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_update_dlk,timestamp,,false,false,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0

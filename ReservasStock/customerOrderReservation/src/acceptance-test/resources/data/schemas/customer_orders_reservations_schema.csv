@@ -1,0 +1,15 @@
+name,type,comment,primary_key,nullable,default_value,encoding,compression,block_size
+matnr,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+werks,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+order_id,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+site_id,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+order_date,timestamp,,false,true,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+order_preparation_date,timestamp,,false,false,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+order_delivery_date,timestamp,,false,true,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+unit_measure,string,,false,true,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+amount,double,,false,true,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+sherpa_order_status,string,,false,true,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_update_dlk,timestamp,,false,false,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_update_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_insert_dlk,timestamp,,false,false,1573209673871754,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_insert_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0

@@ -1,0 +1,33 @@
+site_id,order_status,sherpa_order_status,action,user_insert_dlk,ts_insert_dlk,user_update_dlk,ts_update_dlk
+c4nonfood,Submitted,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,Incomplete,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,splitted,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,no_pending_action,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,Removed,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,pending_remove,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,sent_to_backoffice,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,sent_to_logistic,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,preparing,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,pending_merchant_action,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,pending_customer_return,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+c4nonfood,pending_approval,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Creación,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en Creación,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en Creación Cliente,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Enviado a Logística,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en Enviado Logística,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en Enviado Logística Cliente,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Expedido,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en fecha entrega,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Anulado en Expedido,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+basicSite,Reembolsado,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Creación,PREVIO_PREPARACION,ALTA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en Creación,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en Creación Cliente,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Enviado a Logística,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en Enviado Logística,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en Enviado Logística Cliente,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Expedido,PREPARADO,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en fecha entrega,PREVIO_PREPARACION,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Anulado en Expedido,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00
+bodegaSite,Reembolsado,NO_RESERVA,BAJA,oms_configuration,2019-03-12 00:00:00,oms_configuration,2019-03-12 00:00:00

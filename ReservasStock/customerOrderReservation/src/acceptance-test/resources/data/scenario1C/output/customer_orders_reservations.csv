@@ -1,0 +1,4 @@
+matnr,werks,order_id,site_id,order_date,order_preparation_date,order_delivery_date,unit_measure,amount,sherpa_order_status,ts_update_dlk,user_update_dlk,ts_insert_dlk,user_insert_dlk
+000000000000000001,0001,Order1,c4nonfood,2020-03-14 08:00:00,2020-03-13 08:00:00,2020-03-14 10:00:00,KG,1,PREVIO_PREPARACION,2019-03-12 00:00:00,AT_User,2019-03-12 00:00:00,AT_User
+000000000000000003,0001,Order2,bodegaSite,2020-03-14 08:00:00,2020-03-13 08:00:00,2020-03-14 10:00:00,KG,2,PREVIO_PREPARACION,2019-03-12 00:00:00,AT_User,2019-03-12 00:00:00,AT_User
+000000000000000003,0001,Order3,basicSite,2020-03-14 08:00:00,2020-03-13 08:00:00,2020-03-14 10:00:00,KG,3,PREVIO_PREPARACION,2019-03-12 00:00:00,AT_User,2019-03-12 00:00:00,AT_User

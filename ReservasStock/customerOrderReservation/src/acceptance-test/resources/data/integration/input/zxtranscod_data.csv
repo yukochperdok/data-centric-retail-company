@@ -1,0 +1,2 @@
+id_transcod,code_sap,art_sap_compra,uom,mandt,code_legacy,vl_legacy,vl_socomo,art_raiz_gold,variable_venta_gold,variable_compra_gold,code_rcm,plan_pal,fecha_creacion,ts_insert_dlk,ts_update_dlk,user_insert_dlk,user_update_dlk
+0000000002,1000000000001,,EA,200,2000000001,,,,,,,,2019-04-08 11:57:11,2019-04-08 11:57:11,2019-04-08 11:57:11,datalake,datalake
