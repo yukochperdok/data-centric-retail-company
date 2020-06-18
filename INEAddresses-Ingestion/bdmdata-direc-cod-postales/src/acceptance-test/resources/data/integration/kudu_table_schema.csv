@@ -1,0 +1,3 @@
+name,type,comment,primary_key,nullable,default_value,encoding,compression,block_size
+fullName,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+desc,string,,false,true,,AUTO_ENCODING,DEFAULT_COMPRESSION,0

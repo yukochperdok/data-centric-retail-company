@@ -1,0 +1,12 @@
+name,type,comment,primary_key,nullable,default_value,encoding,compression,block_size
+town_code,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+land1,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+spras,string,,true,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+town_name,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+bland,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+codauto,string,,false,false,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_insert_dlk,timestamp,,false,false,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_insert_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ts_update_dlk,timestamp,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+user_update_dlk,string,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
+ine_modification_date,timestamp,,false,false,,AUTO_ENCODING,DEFAULT_COMPRESSION,0
