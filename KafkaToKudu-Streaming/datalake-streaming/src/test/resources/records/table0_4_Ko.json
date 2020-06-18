@@ -1,0 +1,8 @@
+{
+  "table":"TABLE_xxx",
+  "event":"a",
+  "data": {
+    "c0": "column 0",
+    "c1": "column 1"
+  }
+}

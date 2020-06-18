@@ -1,0 +1,8 @@
+{
+  "table":"MARC",
+  "event":"u",
+  "data":{
+    "key":"marc key",
+    "value":"marc value"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "table":"TABLE3",
+  "event":"u",
+  "data":{
+    "t3_k":"column t3_k",
+    "t3_v1":"column t3_v1",
+    "t3_v2":"column t3_v2",
+    "t3_v3":"column t3_v3",
+    "t3_v4":"column t3_v4",
+    "t3_v5":"column t3_v5",
+    "t3_v6":"column t3_v6",
+    "t3_v7":"column t3_v7",
+    "t3_v8":"column t3_v8",
+    "t3_v9":"column t3_v9",
+    "t3_v10":"column t3_v10"
+  }
+}

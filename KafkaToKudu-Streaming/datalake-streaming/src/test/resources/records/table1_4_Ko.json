@@ -1,0 +1,14 @@
+{
+  "table":"TABLE1",
+  "event":"d",
+  "data":{
+    "t1_k1":"xxxxx",
+    "t1_k2":100,
+    "t1_v1":"column t1_v1",
+    "t1_v2":2.01,
+    "t1_v3":3,
+    "t1_v4":true,
+    "t1_v5":"2018-12-19 14:00:00",
+    "/AAA/BBB/CCC":"column /AAA/BBB/CCC (áéíóú & ñ)"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "table":"TABLE2",
+  "event":"u",
+  "data":{
+    "t2_k1":"column t2_k1",
+    "t2_k2":55,
+    "t2_v1":"column t2_v1",
+    "t2_v2":102.01,
+    "t2_v3":1234567890,
+    "t2_v4":false
+  }
+}
